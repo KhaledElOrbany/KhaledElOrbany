@@ -1,10 +1,14 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+
 <div align="center">
   <a href="https://app.daily.dev/el3orb">
     <img src="https://github.com/KhaledElOrbany/KhaledElOrbany/blob/master/devcard.svg" width="400" alt="Dev Card"/>
   </a>
 </div>
+
 <!--
 **KhaledElOrbany/KhaledElOrbany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
