@@ -1,14 +1,14 @@
 # Hi there 👋
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/khaled-elorbany/" target="_blank">
+  <a href="https://www.linkedin.com/in/khaled-elorbany/">
     <img
       src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
       alt="LinkedIn"
     />
   </a>
 
-  <a href="https://app.daily.dev/el3orb" target="_blank">
+  <a href="https://app.daily.dev/el3orb">
     <img
       alt="I like to read 📖"
       width="256"
