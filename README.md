@@ -27,7 +27,7 @@
 
 * I’m looking for rejoin the NLP society 🙄
 
-* I -sometimes- [tinker 🔧](https://github.com/KhaledElOrbany/CodeWars)
+* I -sometimes- [tinker 🔧](https://github.com/KhaledElOrbany/tinkering)
 
 * My teacher once told me
 > Solange man lebt 🌱,  man muss lernen 🙇
