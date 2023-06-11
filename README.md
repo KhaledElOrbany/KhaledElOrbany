@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://app.daily.dev/el3orb">
-    <img src="https://github.com/rebelchris/rebelchris/blob/master/devcard.svg" width="400" alt="Dev Card"/>
+    <img src="https://github.com/KhaledElOrbany/KhaledElOrbany/blob/master/devcard.svg" width="400" alt="Dev Card"/>
   </a>
 </div>
 <!--
