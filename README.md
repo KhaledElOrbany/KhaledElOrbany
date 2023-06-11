@@ -1,9 +1,5 @@
 ### Hi there 👋
-<div align="center">
-  <a href="https://app.daily.dev/el3orb">
-    <img src="https://api.daily.dev/devcards/1f37f51e2fc54e31be644f83f23fa422.png?r=z3e" width="400" alt="Dev Card"/>
-  </a>
-</div>
+
 <!--
 **KhaledElOrbany/KhaledElOrbany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
