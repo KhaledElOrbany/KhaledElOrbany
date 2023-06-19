@@ -13,7 +13,7 @@
       alt="I like to read 📖"
       width="256"
       align="right"
-      src="https://github.com/KhaledElOrbany/KhaledElOrbany/blob/master/devcard.svg"
+      src="https://raw.githubusercontent.com/KhaledElOrbany/KhaledElOrbany/devcard/devcard.svg"
     />
   </a>
 </div>
