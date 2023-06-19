@@ -22,8 +22,8 @@
 
 - I’m currently working on 🔭 ... 
   - [x] Backend Developing
-  - [ ] Databases
-  - [ ] Frontend Developing (Coming soon!)
+  - [ ] Databases ████▒▒▒▒▒▒ 40%
+  - [ ] Frontend Developing ██▒▒▒▒▒▒▒▒ 20%
 
 * I’m looking for rejoin the NLP society 🙄
 
