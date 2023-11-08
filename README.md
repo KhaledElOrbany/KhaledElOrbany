@@ -1,5 +1,8 @@
 # Hi there 👋
 
+<br />
+<br />
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=KhaledElOrbany&theme=dark" />
