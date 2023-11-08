@@ -1,7 +1,6 @@
 # Hi there 👋
 
 <br />
-<br />
 
 <div align="center">
   <picture>
