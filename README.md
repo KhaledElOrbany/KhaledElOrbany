@@ -1,10 +1,10 @@
 # Hi there 👋
 
 <div align="center">
-  <Picture>
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=KhaledElOrbany&theme=dark" />
     <img src="https://streak-stats.demolab.com?user=KhaledElOrbany&theme=default" />
-  </Picture>
+  </picture>
 </div>
 
 <br />
