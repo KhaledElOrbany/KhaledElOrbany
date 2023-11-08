@@ -1,12 +1,6 @@
 # Hi there 👋
 
-<style>
-    .centered {
-        text-align: center;
-    }
-</style>
-
-<div class="centered">
+<div align="center">
   <Picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=KhaledElOrbany&theme=dark" />
     <img src="https://streak-stats.demolab.com?user=KhaledElOrbany&theme=default" />
