@@ -1,8 +1,8 @@
 # Hi there 👋
 
 <picture align="center">
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=DenverCoder1&theme=dark" />
-    <img src="https://streak-stats.demolab.com?user=KhaledElOrbany&theme=default" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=KhaledElOrbany&theme=dark" />
+    <img src="https://streak-stats.demolab.com?user=KhaledElOrbany&theme=default" align="center" />
 </picture>
 
 <br />
