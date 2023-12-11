@@ -36,7 +36,7 @@
   - Understanding DB in depth
   - Networking and how it works
 
-* I -sometimes- [tinker 🔧](https://github.com/KhaledElOrbany/tinkering)
+* I -sometimes- tinker 🔧 with new projects.
 
 * My teacher once told me
   > Solange man lebt 🌱, man muss lernen 🙇
