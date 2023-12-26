@@ -2,15 +2,6 @@
 
 <br />
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=KhaledElOrbany&theme=dark" />
-    <img src="https://streak-stats.demolab.com?user=KhaledElOrbany&theme=default" />
-  </picture>
-</div>
-
-<br />
-<br />
 
 <div align="left">
   <a href="https://app.daily.dev/el3orb">
