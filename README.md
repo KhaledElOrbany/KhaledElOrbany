@@ -1,7 +1,7 @@
 # Hi there 👋
 
 <br />
-<!--
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=KhaledElOrbany&theme=dark" />
@@ -11,7 +11,7 @@
 
 <br />
 <br />
--->
+
 <div align="left">
   <a href="https://app.daily.dev/el3orb">
     <img
