@@ -23,20 +23,22 @@
   </a>
 </div>
 
-## This is me in few lines.. ☕
-
-- This is me on LinkedIn
-  <a href="https://www.linkedin.com/in/khaled-elorbany/">
-  LinkedIn
-  </a>
-
-- I’m currently working on 🔭 ...
-  - API in node.js
-  - Corresponding Web app (react) and mobile app (react-native)
-  - Understanding DB in depth
-  - Networking and how it works
-
-* I -sometimes- tinker 🔧 with new projects.
+<div>
+  ## This is me in few lines.. ☕
+  
+  - This is me on LinkedIn
+    <a href="https://www.linkedin.com/in/khaled-elorbany/">
+    LinkedIn
+    </a>
+  
+  - I’m currently working on 🔭 ...
+    - API in node.js
+    - Corresponding Web app (react) and mobile app (react-native)
+    - Understanding DB in depth
+    - Networking and how it works
+  
+  * I -sometimes- tinker 🔧 with new projects.
+</div>
 
 * My teacher once told me
   > Solange man lebt 🌱, man muss lernen 🙇
