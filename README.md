@@ -18,7 +18,7 @@
       alt="sometimes I like to read 📖"
       width="256"
       align="right"
-      src="https://raw.githubusercontent.com/KhaledElOrbany/KhaledElOrbany/devcard/devcard.svg"
+      src="https://api.daily.dev/devcards/v2/PF04DexiOlArRuC63QQNO.png?r=azu&type=default" width="356" alt="Khaled Wagdy's Dev Card"
     />
   </a>
 </div>
