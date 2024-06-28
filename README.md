@@ -32,12 +32,10 @@
     </a>
   
   - I’m currently working on 🔭 ...
-    - API in node.js
-    - Corresponding Web app (react) and mobile app (react-native)
-    - Understanding DB in depth
-    - Networking and how it works
-  
-  * I -sometimes- tinker 🔧 with new projects.
+    - API in Spring Boot and corresponding Web app (react)
+    - Understanding JPA and Hibernate in depth
+    - Sharpening my skills on <a href="https://leetcode.com/u/el3orb/">LeetCode</a>
+    - Reading
 </div>
 
 * My teacher once told me
