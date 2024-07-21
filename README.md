@@ -1,1 +1,1 @@
-## Solange man lebt 🌱, man muss lernen 🙇
+Solange man lebt 🌱, man muss lernen 🙇
